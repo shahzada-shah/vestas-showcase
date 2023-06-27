@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vestas-showcase/static/css/main.553f49d4.css",
-    "main.js": "/vestas-showcase/static/js/main.02b1b05b.js",
+    "main.js": "/vestas-showcase/static/js/main.e1a81434.js",
     "static/media/turbine-07.png": "/vestas-showcase/static/media/turbine-07.f9f77e11a028f121ff42.png",
     "static/media/turbine-01.png": "/vestas-showcase/static/media/turbine-01.750e81e03a9eb2d2384f.png",
     "static/media/turbine-09.png": "/vestas-showcase/static/media/turbine-09.dfa4b8809fc6f03111ef.png",
@@ -16,10 +16,10 @@
     "static/media/logo.png": "/vestas-showcase/static/media/logo.1e0c1371de37be360d91.png",
     "index.html": "/vestas-showcase/index.html",
     "main.553f49d4.css.map": "/vestas-showcase/static/css/main.553f49d4.css.map",
-    "main.02b1b05b.js.map": "/vestas-showcase/static/js/main.02b1b05b.js.map"
+    "main.e1a81434.js.map": "/vestas-showcase/static/js/main.e1a81434.js.map"
   },
   "entrypoints": [
     "static/css/main.553f49d4.css",
-    "static/js/main.02b1b05b.js"
+    "static/js/main.e1a81434.js"
   ]
 }
