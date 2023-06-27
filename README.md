@@ -1,6 +1,6 @@
 # Vestas Showcase: Future of Sustainable Energy
 
-### [Live Site](https://shahzada-shah.github.io/vestas-demo/)
+### [Live Site](https://shahzada-shah.github.io/)
 ![gif-demo](https://github.com/shahzada-shah/vestas-showcase/blob/main/demo.gif)
 
 ## Introduction
