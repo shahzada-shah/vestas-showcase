@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vestas-showcase/static/css/main.553f49d4.css",
+    "main.js": "/vestas-showcase/static/js/main.02b1b05b.js",
+    "static/media/turbine-07.png": "/vestas-showcase/static/media/turbine-07.f9f77e11a028f121ff42.png",
+    "static/media/turbine-01.png": "/vestas-showcase/static/media/turbine-01.750e81e03a9eb2d2384f.png",
+    "static/media/turbine-09.png": "/vestas-showcase/static/media/turbine-09.dfa4b8809fc6f03111ef.png",
+    "static/media/turbine-05.png": "/vestas-showcase/static/media/turbine-05.ba40c722b027e1d9af1d.png",
+    "static/media/turbine-02.png": "/vestas-showcase/static/media/turbine-02.9f987204487d5755fc84.png",
+    "static/media/turbine-04.png": "/vestas-showcase/static/media/turbine-04.ecd047557add6eb3cb40.png",
+    "static/media/alternative-energy.png": "/vestas-showcase/static/media/alternative-energy.d2774cea752e69aa2247.png",
+    "static/media/turbine-08.png": "/vestas-showcase/static/media/turbine-08.e6396da93515bcab2474.png",
+    "static/media/under-construction-sign.svg": "/vestas-showcase/static/media/under-construction-sign.e879d30fd574afb46b8b52437f4cf76f.svg",
+    "static/media/turbine-06.png": "/vestas-showcase/static/media/turbine-06.5e2fe05a8b0bff3664a7.png",
+    "static/media/turbine-03.png": "/vestas-showcase/static/media/turbine-03.2f943ac52babda0b5125.png",
+    "static/media/logo.png": "/vestas-showcase/static/media/logo.1e0c1371de37be360d91.png",
+    "index.html": "/vestas-showcase/index.html",
+    "main.553f49d4.css.map": "/vestas-showcase/static/css/main.553f49d4.css.map",
+    "main.02b1b05b.js.map": "/vestas-showcase/static/js/main.02b1b05b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553f49d4.css",
+    "static/js/main.02b1b05b.js"
+  ]
+}
